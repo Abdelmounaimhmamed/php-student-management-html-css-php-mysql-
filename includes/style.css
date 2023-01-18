@@ -1,0 +1,32 @@
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+}
+.input{
+    max-width: 700px;
+}
+
+.table {
+    margin-top: 10%;
+}
+.button{
+    color: white !important;
+    padding: 8px 20px;
+    background-color: red;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    margin:0px  10px;
+}
+.textarea {
+    min-height: 200px;
+}
+
+.sm {
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    font-size: 17px;
+    color: black;
+}
